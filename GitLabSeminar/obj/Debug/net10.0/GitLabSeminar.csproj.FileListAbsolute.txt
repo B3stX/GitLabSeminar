@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\bin\Debug\net10.0\GitLabSeminar.exe
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\bin\Debug\net10.0\GitLabSeminar.deps.json
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\bin\Debug\net10.0\GitLabSeminar.runtimeconfig.json
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\bin\Debug\net10.0\GitLabSeminar.dll
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\bin\Debug\net10.0\GitLabSeminar.pdb
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.AssemblyInfo.cs
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.sourcelink.json
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.dll
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\refint\GitLabSeminar.dll
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.pdb
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\GitLabSeminar.genruntimeconfig.cache
+C:\Users\admin\source\repos\GitLabSeminar\GitLabSeminar\obj\Debug\net10.0\ref\GitLabSeminar.dll
